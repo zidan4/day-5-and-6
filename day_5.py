@@ -100,7 +100,6 @@ print(fruits)  # ['orange', 'mango']
 fruits = ['banana', 'orange', 'mango', 'lemon']
 fruits.remove()
 print(fruits)       # ['banana', 'orange', 'mango']
-
 fruits.remove(0)
 print(fruits)       # ['orange', 'mango']
 
