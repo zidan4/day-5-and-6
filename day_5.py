@@ -23,6 +23,7 @@ print('Web technologies:', web_techs)
 print('Number of web technologies:', len(web_techs))
 print('Number of countries:', len(countries))
 
+
 # Modifying list
 fruits = ['banana', 'orange', 'mango', 'lemon']
 first_fruit = fruits[0]  # we are accessing the first item using its index
